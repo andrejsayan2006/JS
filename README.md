@@ -21,3 +21,6 @@ printNumbers.js
 
 multiplyNumbersFromRange.js
 Реализуйте функцию multiplyNumbersFromRange(), которая перемножает числа в указанном диапазоне включая границы диапазона.
+
+joinNumbersFromRange.js
+Реализуйте функцию joinNumbersFromRange(), которая объединяет все числа из диапазона в строку
