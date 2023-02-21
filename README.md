@@ -24,3 +24,6 @@ multiplyNumbersFromRange.js
 
 joinNumbersFromRange.js
 Реализуйте функцию joinNumbersFromRange(), которая объединяет все числа из диапазона в строку
+
+printReversedWordBySymbol.js
+Реализуйте функцию printReversedWordBySymbol(), которая печатает переданное слово посимвольно, делает это в обратном порядке
