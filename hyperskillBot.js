@@ -35,11 +35,7 @@ do {choice = input();
     if (choice !== 2) {
         switch (choice) {
             case '1':
-                console.log ("Please, try again.");
-                break;
             case '3':
-                console.log ("Please, try again.");
-                break;
             case '4':
                 console.log ("Please, try again.");
                 break;
