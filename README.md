@@ -112,3 +112,6 @@ async.js
 
 numUpper.js
 Считаем количество закглавных букв
+
+sumNumber.js
+сумма чисел
